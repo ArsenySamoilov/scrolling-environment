@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5b25d28f092ba9459d998010dcacaf2, type: 3}
+  m_Name: Background Desert Sky
+  m_EditorClassIdentifier: 
+  _spriteStackBackground: {fileID: 11400000, guid: d4ed378f6b8037a4c8650c35ccaa057d, type: 2}
+  _road: {fileID: 11400000, guid: 0447c13c55a182145ab1c3c5c2f5da28, type: 2}
+  _background: {fileID: 158611210530747675, guid: 25011bb5cbe8e5041826ea916bcc61b8, type: 3}
+  _backgroundsAmount: 2

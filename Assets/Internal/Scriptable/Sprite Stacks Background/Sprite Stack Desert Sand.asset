@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47d1255ff9fd6b34f9f0effc3949d76f, type: 3}
+  m_Name: Sprite Stack Desert Sand
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: 11400000, guid: 6be243e06b7ffe0449d31b8931111aff, type: 2}
+  - {fileID: 11400000, guid: 60b4252f2e7977145829ce97a3ed1499, type: 2}
+  - {fileID: 11400000, guid: f7591cb3ef14c9b489884ca6bcef7f2d, type: 2}
+  _canStartFromAnyPosition: 1

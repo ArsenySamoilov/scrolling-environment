@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4262e2b757aac7442835b4557d7e775d, type: 3}
+  m_Name: Spawner Stack Desert Back Grass
+  m_EditorClassIdentifier: 
+  _spawners:
+  - {fileID: 11400000, guid: 3eddcac6a7eae6f40a2ba589b7e20585, type: 2}
+  - {fileID: 11400000, guid: ddb9c28a0861575419794a32bb7f747a, type: 2}
+  - {fileID: 11400000, guid: ae4c5e01f40f9a144b5dc277a8acccfc, type: 2}
+  _spawnersAmount: 3

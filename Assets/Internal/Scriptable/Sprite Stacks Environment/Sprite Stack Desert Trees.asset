@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b89fc5893266f194ab8c7abf87db14eb, type: 3}
+  m_Name: Sprite Stack Desert Trees
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: 11400000, guid: 7aaa36d78d4da0a4dba5d5b23e1f7776, type: 2}
+  - {fileID: 11400000, guid: a5a268b55d941f84a9155320ab24d28d, type: 2}
+  - {fileID: 11400000, guid: 52e1cdfe170684c4194fb97ae5196438, type: 2}
+  - {fileID: 11400000, guid: 11e12fd6b2c3eb14a9361a77e3c42796, type: 2}
+  - {fileID: 11400000, guid: 2e3d857531ca42c4d823fb200a3f4d5e, type: 2}
+  _selectingChances:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  _selectingChancesSum: 5

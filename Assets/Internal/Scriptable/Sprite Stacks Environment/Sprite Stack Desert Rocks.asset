@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b89fc5893266f194ab8c7abf87db14eb, type: 3}
+  m_Name: Sprite Stack Desert Rocks
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: 11400000, guid: 152dee08bb4e2e1478be33f3bc3f9ca4, type: 2}
+  - {fileID: 11400000, guid: 647b8ce10622ea6429f786ffe4128afe, type: 2}
+  - {fileID: 11400000, guid: 5c86fd92e292298499f91720643c9723, type: 2}
+  - {fileID: 11400000, guid: eec62c13e47aed4459cd6ddb026e160f, type: 2}
+  - {fileID: 11400000, guid: 77a2c2323486ef34bb71b7f9925378b2, type: 2}
+  - {fileID: 11400000, guid: b58f396d9fe19aa4b9b059c187652c53, type: 2}
+  - {fileID: 11400000, guid: 5900e48f733dd304d8c9212ac377184c, type: 2}
+  _selectingChances:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  _selectingChancesSum: 7

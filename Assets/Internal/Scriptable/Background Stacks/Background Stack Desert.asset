@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a614fd9e88818d84ea90d4f0da1e1948, type: 3}
+  m_Name: Background Stack Desert
+  m_EditorClassIdentifier: 
+  _backgrounds:
+  - {fileID: 11400000, guid: 6a9533a24a4de484db426cb619515af3, type: 2}
+  - {fileID: 11400000, guid: 6d046f1abee3c3c4fbf37a8ada6fc690, type: 2}
+  - {fileID: 11400000, guid: 9894e57a5c0f72d4e85005548c681d67, type: 2}
+  - {fileID: 11400000, guid: 2acd09ba1b8413b42b6bc0920494376e, type: 2}
+  - {fileID: 11400000, guid: 08d29cb4b7e9c7c429d1930940a04eb0, type: 2}
+  - {fileID: 11400000, guid: 7b07690cc4994ab4cbe3ddec8067c6b7, type: 2}
+  - {fileID: 11400000, guid: d2abbeaa2a73aef4399c0ba09fbfa5f9, type: 2}
+  - {fileID: 11400000, guid: 6a5c7ab504b609e4b873ed0b2eba2390, type: 2}

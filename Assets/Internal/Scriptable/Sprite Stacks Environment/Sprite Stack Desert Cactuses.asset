@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b89fc5893266f194ab8c7abf87db14eb, type: 3}
+  m_Name: Sprite Stack Desert Cactuses
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: 11400000, guid: 7639ab669904fba4a9178e17958100a2, type: 2}
+  - {fileID: 11400000, guid: 65055799156145f419525e3e2205f2cc, type: 2}
+  - {fileID: 11400000, guid: 3f8721294052abd4a963cc260bde8284, type: 2}
+  - {fileID: 11400000, guid: fd99ebe500fa4354390b2ec863cc01dd, type: 2}
+  - {fileID: 11400000, guid: 1ac2e05965d04dd4d920a7af02c1dcbb, type: 2}
+  _selectingChances:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  _selectingChancesSum: 5

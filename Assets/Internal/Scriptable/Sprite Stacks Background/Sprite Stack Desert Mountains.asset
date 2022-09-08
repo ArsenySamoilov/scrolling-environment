@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47d1255ff9fd6b34f9f0effc3949d76f, type: 3}
+  m_Name: Sprite Stack Desert Mountains
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: 11400000, guid: 0d978dae37e33744ba4b326ace7e5f00, type: 2}
+  - {fileID: 11400000, guid: b78fa61d1a53c9948886e20fc7a61398, type: 2}
+  - {fileID: 11400000, guid: fc894a21187108b45b758d17ab3c7cfa, type: 2}
+  _canStartFromAnyPosition: 1
